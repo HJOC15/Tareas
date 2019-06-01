@@ -1,3 +1,5 @@
+#Humberto Orellana
+# Carné 0907 - 19 - 10906
 from tkinter import ttk
 from tkinter import *
 
